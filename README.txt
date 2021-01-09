@@ -1,4 +1,4 @@
-This is a README text file of css assignment.This new sentence is for js-assignment master branch.
+This is a README text file of JavaScript assignment.
 
 This is New change.
 
