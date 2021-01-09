@@ -1,4 +1,4 @@
-This is a README text file.
+This is a README text file of css assignment.
 
 It is inside the Assignments folder.
 
