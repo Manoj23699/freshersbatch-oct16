@@ -2,7 +2,7 @@ This is a README text file.
 
 It is inside the Assignments folder.
 
-This folder is used to commit html,js,css files.
+This folder is used to commit html,js,css files.This change in 3rd line is for css asignment section.
 
 At last this folder will be pushed to remote repository
 
