@@ -1,0 +1,9 @@
+This is a README text file.
+
+It is inside the Assignments folder.
+
+This folder is used to commit html,js,css files.
+
+At last this folder will be pushed to remote repository
+
+So that is all about the README text file.
